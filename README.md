@@ -1,2 +1,2 @@
 # status-page
-EventXtra status page
+EventX status page
